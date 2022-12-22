@@ -289,4 +289,10 @@ EmojiGifPickerPanel.setTexts(MenuTexts(
           const TextStyle(fontSize: 12, color: Color(0xFF8d8d8d)),
       searchBarTextStyle: const TextStyle(fontSize: 12, color: Colors.black)));
 ```
--
+
+## Thanks to
+- The [emoji_picker_flutter](https://pub.dev/packages/emoji_picker_flutter) package
+- The [flutter_keyboard_size](https://pub.dev/packages/flutter_keyboard_size) package
+- The [giphy_api_client](https://pub.dev/packages/giphy_api_client) package
+- The [get](https://pub.dev/packages/get) package
+- The [platform_info](https://pub.dev/packages/platform_info) package
