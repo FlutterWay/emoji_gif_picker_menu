@@ -138,7 +138,7 @@ class EmojiGifPickerPanel {
       Get.find<MenuStateController>().currentMenu;
 
   static String? get currentMenuId {
-    Get.find<MenuStateController>().isOpened
+    return Get.find<MenuStateController>().isOpened
         ? Get.find<MenuStateController>().currentMenu!.id
         : null;
   }
