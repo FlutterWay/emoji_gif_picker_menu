@@ -1,6 +1,4 @@
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter_keyboard_size/flutter_keyboard_size.dart';
 
 class KeyboardProvider extends StatelessWidget {

@@ -10,9 +10,7 @@ export 'views/keyboard_provider.dart';
 export 'views/emoji_gif_textfield.dart';
 export 'models/layout_mode.dart';
 import 'package:emoji_gif_picker_menu/models/menu_design.dart';
-import 'package:emoji_picker_flutter/emoji_picker_flutter.dart';
 import 'package:get/get.dart';
-import 'package:giphy_api_client/giphy_api_client.dart';
 import 'controller/menu_state_controller.dart';
 import 'package:platform_info/platform_info.dart';
 

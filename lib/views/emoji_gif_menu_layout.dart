@@ -1,11 +1,8 @@
 import 'package:emoji_gif_picker_menu/controller/menu_state_controller.dart';
-import 'package:emoji_gif_picker_menu/emoji_gif_picker_menu.dart';
 import 'package:emoji_gif_picker_menu/views/emoji_gif_menu_column.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:platform_info/platform_info.dart';
-import '../models/layout_mode.dart';
 
 class EmojiGifMenuLayout extends StatelessWidget {
   Widget child;

@@ -2,7 +2,6 @@ import 'package:emoji_gif_picker_menu/controller/mobile_search_bar_controller.da
 import 'package:emoji_gif_picker_menu/models/menu_design.dart';
 import 'package:emoji_picker_flutter/emoji_picker_flutter.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_keyboard_size/flutter_keyboard_size.dart';
 import 'package:get/get.dart';
 import 'package:giphy_api_client/giphy_api_client.dart';
 import 'package:platform_info/platform_info.dart';
