@@ -1,6 +1,6 @@
 name: emoji_gif_picker_menu
 description: The same emoji-gif picker as whatsapp. Takes the same size as your keyboard(Mobile).
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/FlutterWay/emoji_gif_picker_menu
 
 environment:
